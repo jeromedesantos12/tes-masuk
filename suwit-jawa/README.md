@@ -10,4 +10,4 @@ Kalau kita pencet oke, nanti diminta lagi, _"Apakah mau ulangi lagi nggak?"_ Kal
 
 - _gajah vs orang = gajah_
 - _orang vs semut = orang_
-- _semut vs gajah = Semut_
+- _semut vs gajah = semut_
