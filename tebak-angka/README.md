@@ -39,22 +39,4 @@ Masukkan angka tebakan: 25
 Angka tebakan Anda terlalu kecil! Tebak lagi: 40
 Angka tebakan Anda terlalu besar! Tebak lagi: 33
 Selamat, tebakan kakak benar! ⸜(｡˃ ᵕ ˂ )⸝♡
-
-Copy
-
-Insert
-
-Kebutuhan
-Node.js
-Library prompt-sync
-Menjalankan Program
-Install dependencies:
-npm install prompt-sync
-
-Copy
-
-Insert
-
-Jalankan program:
-node 11-gameTebakAngka.js
 ```
