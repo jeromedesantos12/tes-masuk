@@ -32,7 +32,7 @@ Sebuah program sederhana untuk menebak angka secara interaktif di terminal mengg
 ## Contoh Penggunaan
 
 ```bash
-$ node 11-gameTebakAngka.js
+$ node tebak-angka.js
 Masukkan nilai maksimal! 50
 
 Masukkan angka tebakan: 25
